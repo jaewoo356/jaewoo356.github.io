@@ -1,0 +1,93 @@
+title: "Jaewoo Shin"
+subtitle: "Personal portfolio and study notes"
+name: "Jaewoo Shin"
+description: "Personal portfolio, research notes, and study records in language models and efficient machine learning."
+url: "https://jaewooshin.github.io"
+baseurl: ""
+repository: "jaewooshin/jaewooshin.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "air"
+locale: "en-US"
+timezone: "Asia/Seoul"
+
+search: true
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+author:
+  name: "Jaewoo Shin"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Graduate student interested in reasoning for LLMs, post-training LLMs, and efficient machine learning."
+  location: "Republic of Korea"
+  email: "jaewoo.shin@yonsei.ac.kr"
+  links:
+    - label: "Yonsei Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jaewoo.shin@yonsei.ac.kr"
+    - label: "Gmail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jaewoo356@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaewooshin"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/your-linkedin-id/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaewooshin"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/your-linkedin-id/"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+exclude:
+  - .DS_Store
+  - .sass-cache
+  - .jekyll-cache
+  - Gemfile.lock
+  - node_modules
+  - vendor

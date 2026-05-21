@@ -1,0 +1,55 @@
+---
+# Only the main Sass file needs front matter.
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+:root {
+  --portfolio-accent: #2f6f73;
+  --portfolio-ink: #1f2933;
+  --portfolio-muted: #5f6c72;
+}
+
+.page__content {
+  font-size: 0.95rem;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  letter-spacing: 0;
+}
+
+.page__content h2 {
+  border-bottom: 1px solid #d7dee2;
+  padding-bottom: 0.35rem;
+}
+
+.author__avatar img {
+  border-radius: 8px;
+}
+
+.author__content,
+.author__urls-wrapper {
+  color: var(--portfolio-muted);
+}
+
+a {
+  color: var(--portfolio-accent);
+}
+
+.masthead {
+  border-bottom: 1px solid #d7dee2;
+}
+
+.greedy-nav {
+  background: #ffffff;
+}
+
+.archive__item-title,
+.page__title {
+  color: var(--portfolio-ink);
+}
