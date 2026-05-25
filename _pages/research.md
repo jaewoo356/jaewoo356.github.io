@@ -7,19 +7,7 @@ This page lists research projects, papers, and technical work related to LLM rea
 
 ## Publications
 
-### Paper Title
-
-Author list. Venue or status, Year.
-
-[[paper]](#) [[code]](#) [[project page]](#)
-
-## Projects
-
-### Project Title
-
-Short description of the problem, method, and result.
-
-[[github]](#) [[writeup]](#)
+No publications listed yet.
 
 ## Current Directions
 

@@ -7,8 +7,8 @@ I am a graduate student interested in reasoning for LLMs, post-training LLMs, an
 
 ## Education
 
-- B.S. in Applied Statistics, Yonsei University, 2019-2025
 - M.S. in Department of Statistics and Data Science, Yonsei University, 2025-2027 (TBA)
+- B.S. in Applied Statistics, Yonsei University, 2019-2025
 
 ## Experience
 

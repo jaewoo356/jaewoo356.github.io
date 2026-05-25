@@ -23,6 +23,7 @@ title: "Your Name"
 name: "Your Name"
 description: "Personal portfolio, research notes, and study records."
 url: "https://your-github-username.github.io"
+baseurl: ""
 repository: "your-github-username/your-github-username.github.io"
 ```
 

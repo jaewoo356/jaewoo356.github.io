@@ -9,12 +9,28 @@
 
 :root {
   --portfolio-accent: #2f6f73;
+  --portfolio-accent-dark: #214f52;
   --portfolio-ink: #1f2933;
   --portfolio-muted: #5f6c72;
+  --portfolio-border: #d7dee2;
+  --portfolio-bg: #fbfcfc;
+}
+
+body {
+  background: var(--portfolio-bg);
+  color: var(--portfolio-ink);
 }
 
 .page__content {
-  font-size: 0.95rem;
+  font-size: 0.98rem;
+  line-height: 1.72;
+}
+
+.page__content > p:first-of-type {
+  color: #3d4c52;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  margin-bottom: 1.35rem;
 }
 
 .page__content h1,
@@ -24,12 +40,40 @@
 }
 
 .page__content h2 {
-  border-bottom: 1px solid #d7dee2;
-  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--portfolio-border);
+  color: var(--portfolio-ink);
+  font-size: 1.25rem;
+  margin-top: 1.8rem;
+  padding-bottom: 0.4rem;
+}
+
+.page__content h3 {
+  color: var(--portfolio-ink);
+  font-size: 1.05rem;
+  margin-top: 1.25rem;
+}
+
+.page__content ul {
+  margin-top: 0.45rem;
+}
+
+.page__content li {
+  margin-bottom: 0.35rem;
+}
+
+.page__content strong {
+  color: var(--portfolio-ink);
+}
+
+.page__content a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 .author__avatar img {
-  border-radius: 8px;
+  border: 1px solid var(--portfolio-border);
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(31, 41, 51, 0.08);
 }
 
 .author__content,
@@ -41,15 +85,58 @@ a {
   color: var(--portfolio-accent);
 }
 
+a:hover {
+  color: var(--portfolio-accent-dark);
+}
+
 .masthead {
-  border-bottom: 1px solid #d7dee2;
+  background: #ffffff;
+  border-bottom: 1px solid var(--portfolio-border);
 }
 
 .greedy-nav {
   background: #ffffff;
 }
 
+.greedy-nav .visible-links a::before {
+  background: var(--portfolio-accent);
+}
+
 .archive__item-title,
 .page__title {
   color: var(--portfolio-ink);
+}
+
+.page__title {
+  font-size: 2rem;
+  margin-bottom: 0.55rem;
+}
+
+.sidebar {
+  opacity: 1;
+}
+
+.author__name {
+  color: var(--portfolio-ink);
+  font-size: 1.05rem;
+}
+
+.author__bio {
+  color: var(--portfolio-muted);
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.author__urls a {
+  color: var(--portfolio-muted);
+}
+
+.author__urls a:hover {
+  color: var(--portfolio-accent-dark);
+}
+
+@media (min-width: 64em) {
+  .page {
+    padding-right: 4rem;
+  }
 }
