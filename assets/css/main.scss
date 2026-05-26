@@ -177,21 +177,6 @@ a:hover {
   }
 }
 
-.study-note-frame {
-  background: transparent;
-  border: 0;
-  border-radius: 0;
-  box-shadow: none;
-  display: block;
-  height: calc(100vh - 5rem);
-  margin: 0;
-  width: 100%;
-}
-
-.wide .study-note-frame {
-  min-height: 860px;
-}
-
 .study-note-page .page__title {
   display: none;
 }
@@ -222,6 +207,14 @@ a:hover {
   width: 100%;
 }
 
-.study-note-page .study-note-frame {
-  margin-top: 0;
+.study-note-embed {
+  display: block;
+  min-height: calc(100vh - 5rem);
+  width: 100%;
+}
+
+.study-note-error {
+  margin: 2rem auto;
+  max-width: 980px;
+  padding: 0 1rem;
 }

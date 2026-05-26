@@ -6,4 +6,5 @@ classes: wide study-note-page
 author_profile: false
 ---
 
-<iframe class="study-note-frame" src="{{ '/study_files/수리통계학 2/7장 Sufficiency (2)/7장 Sufficiency (2) d942c892c49145dcb3832b2872a9453e.html' | relative_url }}" title="7장 Sufficiency (2)"></iframe>
+<div class="study-note-embed" data-study-note-src="{{ '/study_files/수리통계학 2/7장 Sufficiency (2)/7장 Sufficiency (2) d942c892c49145dcb3832b2872a9453e.html' | relative_url }}"></div>
+<script src='{{ "/assets/js/study-note-loader.js" | relative_url }}' defer></script>

@@ -6,4 +6,5 @@ classes: wide study-note-page
 author_profile: false
 ---
 
-<iframe class="study-note-frame" src="{{ '/study_files/PML Advanced 스터디/9장 Message Passing Algorithms/9장 Message Passing Algorithms 2291c57bb8b480b3b605fee5f34af7b4.html' | relative_url }}" title="9장 Message Passing Algorithms"></iframe>
+<div class="study-note-embed" data-study-note-src="{{ '/study_files/PML Advanced 스터디/9장 Message Passing Algorithms/9장 Message Passing Algorithms 2291c57bb8b480b3b605fee5f34af7b4.html' | relative_url }}"></div>
+<script src='{{ "/assets/js/study-note-loader.js" | relative_url }}' defer></script>
