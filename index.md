@@ -21,8 +21,6 @@ My research interests center on large language models, with a focus on reasoning
 
 ## News
 
-- May 2026 - Launched this personal website.
-
 ## Publications
 
-No publications listed yet.
+- Preprint -- Latent Space based Token Selection for LLM Unlearning

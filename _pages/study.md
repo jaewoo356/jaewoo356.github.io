@@ -5,8 +5,6 @@ permalink: /study/
 
 This page collects study notes, paper summaries, and technical learning records.
 
-## Recent Notes
-
 {% assign study_posts = site.categories.study %}
 {% if study_posts.size > 0 %}
 {% for post in study_posts %}
@@ -16,8 +14,6 @@ This page collects study notes, paper summaries, and technical learning records.
 {% else %}
 No study notes yet.
 {% endif %}
-
-## Study Files
 
 These exported notes are grouped by the folder names under `study_files/`.
 
