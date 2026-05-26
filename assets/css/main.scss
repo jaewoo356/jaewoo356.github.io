@@ -172,3 +172,18 @@ a:hover {
     padding-right: 4rem;
   }
 }
+
+.study-note-frame {
+  background: #ffffff;
+  border: 1px solid var(--portfolio-border);
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(31, 41, 51, 0.08);
+  display: block;
+  height: 82vh;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.wide .study-note-frame {
+  min-height: 760px;
+}

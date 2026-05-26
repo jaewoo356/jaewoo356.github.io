@@ -1,0 +1,11 @@
+---
+title: "5장 Statistical Analysis of Simulated Data"
+permalink: /study-files/stat-computing/statistical-analysis-simulated-data/
+layout: single
+classes: wide
+author_profile: false
+---
+
+[Back to Study Notes]({{ "/study/" | relative_url }})
+
+<iframe class="study-note-frame" src="{{ '/study_files/통계전산/5장 Statistical Analysis of Simulated Data/5장 Statistical Analysis of Simulated Data 21d1c57bb8b480e6aa2cfbb1eb6141f9.html' | relative_url }}" title="5장 Statistical Analysis of Simulated Data"></iframe>
