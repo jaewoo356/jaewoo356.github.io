@@ -187,3 +187,11 @@ a:hover {
 .wide .study-note-frame {
   min-height: 760px;
 }
+
+.study-note-page .page__title {
+  display: none;
+}
+
+.study-note-page .study-note-frame {
+  margin-top: 0;
+}
