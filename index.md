@@ -3,7 +3,7 @@ title: "Jaewoo Shin"
 permalink: /
 layout: single
 author_profile: true
-classes: wide
+classes: wide home-page
 ---
 
 ## Biography
