@@ -22,4 +22,12 @@ My primary goals are to utilize analytical results into quantitative results tha
 
 ## Publications
 
-- Preprint -- Latent Space based Token Selection for LLM Unlearning
+<ul class="publication-list">
+  <li>
+    <span class="publication-number">[P1]</span>
+    <span class="publication-entry">
+      <span class="publication-title">Latent Space based Token Selection for LLM Unlearning.</span>
+      <span class="publication-meta">Preprint.</span>
+    </span>
+  </li>
+</ul>

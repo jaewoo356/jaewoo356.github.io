@@ -10,11 +10,7 @@ classes: wide home-page
 
 ## Biography
 
-- Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Jy-yong Sohn.
-- Bachelor's degree in the same department at Yonsei University.
-- Grew up in Indonesia before moving to Korea for university.
-- Native in Korean and English; conversational familiarity with Indonesian and Chinese.
-- See my CV for more details.
+Hello! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Jy-yong Sohn. Prior to that, I got my Bachelor's Degree in the same department at Yonsei University, and even before that I lived my whole life in Indonesia. I can speak native Korean and English, and a slight bit of Indonesian and Chinese. Check out my CV for details!
 
 ## News
 
@@ -22,4 +18,12 @@ classes: wide home-page
 
 ## Publications
 
-- Preprint -- Latent Space based Token Selection for LLM Unlearning
+<ul class="publication-list">
+  <li>
+    <span class="publication-number">[P1]</span>
+    <span class="publication-entry">
+      <span class="publication-title">Latent Space based Token Selection for LLM Unlearning.</span>
+      <span class="publication-meta">Preprint.</span>
+    </span>
+  </li>
+</ul>

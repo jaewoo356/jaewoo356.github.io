@@ -19,7 +19,15 @@ Add your CV PDF to `assets/files/cv.pdf`.
 
 ## Publications
 
-- Paper title, venue, year
+<ul class="publication-list">
+  <li>
+    <span class="publication-number">[P1]</span>
+    <span class="publication-entry">
+      <span class="publication-title">Latent Space based Token Selection for LLM Unlearning.</span>
+      <span class="publication-meta">Preprint.</span>
+    </span>
+  </li>
+</ul>
 
 ## Awards
 
