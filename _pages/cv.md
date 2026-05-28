@@ -1,6 +1,7 @@
 ---
 title: "CV"
 permalink: /cv/
+classes: cv-page
 ---
 
 Add your CV PDF to `assets/files/cv.pdf`.

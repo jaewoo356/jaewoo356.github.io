@@ -1,6 +1,7 @@
 ---
 title: "Study Notes"
 permalink: /study/
+classes: study-index-page
 ---
 
 This page collects study notes, paper summaries, and technical learning records.
