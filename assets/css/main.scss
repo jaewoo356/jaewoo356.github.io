@@ -134,6 +134,10 @@ a:hover {
   background: var(--portfolio-accent);
 }
 
+.page__footer {
+  display: none;
+}
+
 .archive__item-title,
 .page__title {
   color: var(--portfolio-ink);

@@ -10,7 +10,9 @@ classes: wide home-page
 
 Hello! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Jy-yong Sohn. Prior to that, I got my Bachelor's Degree in the same department at Yonsei University, and even before that I lived my whole life in Indonesia. I can speak native Korean and English, and a slight bit of Indonesian and Chinese. Check out my CV for details!
 
-## Research Interest
+## News
+
+## Research Interests
 
 My primary goals are to utilize analytical results into quantitative results that contribute both the research field as well as the industry. Currently, I am mostly interested in **Reasoning** for Large Language Models. Within this huge topic, I wish to divide my research directions into two directions.
 
@@ -23,8 +25,6 @@ My primary goals are to utilize analytical results into quantitative results tha
 
    - **Dataset**: Among the three key components of AI (Architecture, Algorithm, Data), the latter part of picking which dataset for what type of reasoning has not been explored enough. Long-context or long reasoning is known to help enhance reasoning qualities, but to which extent, and details about this is not explored enough. I wish to systematically characterize how dataset properties such as length, difficulty distribution, domain diversity, and the structure of reasoning traces shape the type and quality of reasoning a model acquires, then provide concrete guidelines on which data to use for which reasoning capabilities.
    - **Exploration**: Exploration is a huge topic in Reinforcement Learning, but much of the research has focused on traditional RL settings rather than the unique landscape of LLM reasoning, where the action space is the vocabulary itself and rewards are sparse and verifiable. I am interested in how exploration manifests in RLVR. For instance, how a model discovers genuinely novel reasoning paths, and whether premature convergence such as entropy collapse limits a model's reasoning ceiling. I also wish to develop methods that encourage productive exploration without sacrificing training efficiency.
-
-## News
 
 ## Publications
 
