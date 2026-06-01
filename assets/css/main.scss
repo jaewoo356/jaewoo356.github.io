@@ -453,7 +453,7 @@ a:hover {
   box-shadow: 0 10px 26px rgba(23, 33, 43, 0.05);
   display: grid;
   gap: 1rem;
-  grid-template-columns: 8.5rem minmax(0, 1fr);
+  grid-template-columns: 11.25rem minmax(0, 1fr);
   padding: 1rem 1.1rem;
 }
 
@@ -462,6 +462,7 @@ a:hover {
   font-size: 0.82rem;
   font-weight: 800;
   line-height: 1.35;
+  white-space: nowrap;
 }
 
 .experience-body h3 {
