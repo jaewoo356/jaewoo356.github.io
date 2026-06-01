@@ -29,7 +29,7 @@ Hello! I am a Master's student in [Statistics and Data Science](https://stat.yon
   <li>
     <span class="publication-number">[P2]</span>
     <span class="publication-entry">
-      <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of Verifiable-Reward Reinforcement Learning.</span>
+      <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of RLVR.</span>
       <span class="publication-meta">Working Paper.</span>
     </span>
   </li>
