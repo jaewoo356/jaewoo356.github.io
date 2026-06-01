@@ -8,7 +8,7 @@ classes: experiences-page
 
 <div class="experience-list">
   <section class="experience-item">
-    <div class="experience-date">2025 Sep - Present</div>
+    <div class="experience-date">2025&nbsp;Sep&nbsp;-&nbsp;Present</div>
     <div class="experience-body">
       <h3>M.S. in Statistics and Data Science</h3>
       <p class="experience-place">Yonsei University</p>
@@ -16,14 +16,14 @@ classes: experiences-page
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2019 Sep - 2025 Aug</div>
+    <div class="experience-date">2019&nbsp;Sep&nbsp;-&nbsp;2025&nbsp;Aug</div>
     <div class="experience-body">
       <h3>B.A. in Applied Statistics</h3>
       <p class="experience-place">Yonsei University</p>
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2019 June</div>
+    <div class="experience-date">2019&nbsp;June</div>
     <div class="experience-body">
       <h3>Diploma Programme</h3>
       <p class="experience-place">International Baccalaureate</p>
@@ -35,7 +35,7 @@ classes: experiences-page
 
 <div class="experience-list">
   <section class="experience-item">
-    <div class="experience-date">2025 Sep - Present</div>
+    <div class="experience-date">2025&nbsp;Sep&nbsp;-&nbsp;Present</div>
     <div class="experience-body">
       <h3>Graduate Researcher</h3>
       <p class="experience-place">ITML Lab, Yonsei University</p>
@@ -43,7 +43,7 @@ classes: experiences-page
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2024 Jan - 2025 Aug</div>
+    <div class="experience-date">2024&nbsp;Jan&nbsp;-&nbsp;2025&nbsp;Aug</div>
     <div class="experience-body">
       <h3>Lab Intern</h3>
       <p class="experience-place">ITML Lab, Yonsei University</p>
