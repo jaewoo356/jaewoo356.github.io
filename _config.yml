@@ -29,25 +29,17 @@ plugins:
 author:
   name: "Jaewoo Shin"
   avatar: "/assets/images/profile.jpg"
-  bio: "Graduate student interested in reasoning for LLMs, post-training LLMs, and efficient machine learning."
-  location: "Republic of Korea"
-  email: "jaewoo.shin@yonsei.ac.kr"
+  bio: "Graduate student interested in Reasoning for LLMs."
   links:
-    - label: "Yonsei Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jaewoo.shin@yonsei.ac.kr"
-    - label: "Gmail"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:jaewoo356@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaewoo356"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/your-linkedin-id/"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.com/"
 
 footer:
   links:

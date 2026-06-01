@@ -347,8 +347,14 @@ a:hover {
   min-width: 0;
 }
 
+.publication-authors {
+  color: #34444e;
+  display: block;
+}
+
 .publication-title {
   color: var(--portfolio-ink);
+  display: inline;
   font-weight: 700;
 }
 

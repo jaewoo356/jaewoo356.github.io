@@ -6,7 +6,7 @@ author_profile: true
 classes: wide home-page
 ---
 
-<p class="home-subtitle">Statistics and Data Science at Yonsei University, focused on reasoning for large language models, post-training, and efficient machine learning.</p>
+<p class="home-subtitle">I study Statistics and Data Science at Yonsei University, with a focus on reasoning for large language models, post-training, and efficient machine learning.</p>
 
 ## Biography
 
@@ -14,8 +14,8 @@ Hello! I am a Master's student in Statistics and Data Science at Yonsei Universi
 
 ## News
 
-- I am starting my Master's program within the Department of Statistics and Data Science under the supervision of Professor [Jy-yong Sohn](https://itml.yonsei.ac.kr).
-- Site content is being organized across Research, Study Notes, and CV.
+- **2025 Sep**: I am starting my Master's program within the Department of Statistics and Data Science under the supervision of Professor [Jy-yong Sohn](https://itml.yonsei.ac.kr).
+- **2024 Jan**: I am beginning my lab intern under the supervision of Professor [Jy-yong Sohn](https://itml.yonsei.ac.kr).
 
 ## Publications
 
@@ -23,8 +23,15 @@ Hello! I am a Master's student in Statistics and Data Science at Yonsei Universi
   <li>
     <span class="publication-number">[P1]</span>
     <span class="publication-entry">
+      <span class="publication-authors">Junehong Baek, <strong>Jaewoo Shin</strong>, Albert No, Jy-yong Sohn.</span>
       <span class="publication-title">Latent Space based Token Selection for LLM Unlearning.</span>
       <span class="publication-meta">Preprint.</span>
+    </span>
+  </li>
+  <li>
+    <span class="publication-number">[P2]</span>
+    <span class="publication-entry">
+      <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of Verifiable-Reward Reinforcement Learning.</span>
     </span>
   </li>
 </ul>

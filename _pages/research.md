@@ -26,8 +26,15 @@ My primary goals are to utilize analytical results into quantitative results tha
   <li>
     <span class="publication-number">[P1]</span>
     <span class="publication-entry">
+      <span class="publication-authors">Junehong Baek, <strong>Jaewoo Shin</strong>, Albert No, Jy-yong Sohn.</span>
       <span class="publication-title">Latent Space based Token Selection for LLM Unlearning.</span>
       <span class="publication-meta">Preprint.</span>
+    </span>
+  </li>
+  <li>
+    <span class="publication-number">[P2]</span>
+    <span class="publication-entry">
+      <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of Verifiable-Reward Reinforcement Learning.</span>
     </span>
   </li>
 </ul>
