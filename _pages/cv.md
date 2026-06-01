@@ -56,6 +56,20 @@ classes: experiences-page
 
 <div class="experience-list">
   <section class="experience-item">
+    <div class="experience-date">2026&nbsp;Mar.&nbsp;-&nbsp;2026&nbsp;June</div>
+    <div class="experience-body">
+      <h3>Teaching Assistant</h3>
+      <p class="experience-place">Introduction to Optimization for Data Science, Yonsei University</p>
+    </div>
+  </section>
+  <section class="experience-item">
+    <div class="experience-date">2025&nbsp;Sept.&nbsp;-&nbsp;2025&nbsp;Dec.</div>
+    <div class="experience-body">
+      <h3>Teaching Assistant</h3>
+      <p class="experience-place">Information Theory for Data Science, Yonsei University</p>
+    </div>
+  </section>
+  <section class="experience-item">
     <div class="experience-date">2024&nbsp;Sep&nbsp;-&nbsp;2025&nbsp;Jun</div>
     <div class="experience-body">
       <h3><a href="https://www.youtube.com/@escyonsei5733">Expanded Statistics Club</a></h3>
