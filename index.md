@@ -14,6 +14,7 @@ Hello! I am a Master's student in Statistics and Data Science at Yonsei Universi
 
 ## News
 
+- I am starting my Master's program within the Department of Statistics and Data Science under the supervision of Professor [Jy-yong Sohn](https://itml.yonsei.ac.kr).
 - Site content is being organized across Research, Study Notes, and CV.
 
 ## Publications
