@@ -16,10 +16,17 @@ classes: experiences-page
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2019 - 2025</div>
+    <div class="experience-date">2019 Sep - 2025 Aug</div>
     <div class="experience-body">
-      <h3>B.S. in Applied Statistics</h3>
+      <h3>B.A. in Applied Statistics</h3>
       <p class="experience-place">Yonsei University</p>
+    </div>
+  </section>
+  <section class="experience-item">
+    <div class="experience-date"></div>
+    <div class="experience-body">
+      <h3>Diploma Programme</h3>
+      <p class="experience-place">International Baccalaureate</p>
     </div>
   </section>
 </div>
@@ -36,7 +43,7 @@ classes: experiences-page
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2024 Jan</div>
+    <div class="experience-date">2024 Jan - 2025 Aug</div>
     <div class="experience-body">
       <h3>Lab Intern</h3>
       <p class="experience-place">ITML Lab, Yonsei University</p>
@@ -73,7 +80,7 @@ classes: experiences-page
     <p>Python, PyTorch, Git</p>
   </section>
   <section class="skill-group">
-    <h3>Research</h3>
-    <p>Reasoning for LLMs, post-training LLMs, efficient machine learning</p>
+    <h3>Language</h3>
+    <p>Native English and Korean</p>
   </section>
 </div>
