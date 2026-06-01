@@ -263,19 +263,19 @@ a:hover {
 
 .author__name {
   color: var(--portfolio-ink);
-  font-size: 1.08rem;
+  font-size: 1.16rem;
   margin-bottom: 0.35rem;
 }
 
 .author__bio {
   color: var(--portfolio-muted);
-  font-size: 0.86rem;
+  font-size: 0.95rem;
   line-height: 1.6;
 }
 
 .author__urls a {
   color: var(--portfolio-muted);
-  font-size: 0.86rem;
+  font-size: 0.94rem;
 }
 
 .author__urls a:hover {
@@ -284,7 +284,7 @@ a:hover {
 
 .home-page .page__content > ul:first-of-type,
 .study-index-page .page__content h3 + ul,
-.cv-page .page__content h2 + ul:not(.publication-list) {
+.experiences-page .page__content h2 + ul:not(.publication-list) {
   list-style: none;
   padding-left: 0;
 }
@@ -440,18 +440,83 @@ a:hover {
   text-decoration: underline;
 }
 
-.cv-page .page__content h2 + ul:not(.publication-list) {
+.experience-list {
+  display: grid;
+  gap: 0.85rem;
+  margin: 1rem 0 1.6rem;
+}
+
+.experience-item {
+  background: var(--portfolio-surface);
+  border: 1px solid var(--portfolio-border);
+  border-radius: 8px;
+  box-shadow: 0 10px 26px rgba(23, 33, 43, 0.05);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 8.5rem minmax(0, 1fr);
+  padding: 1rem 1.1rem;
+}
+
+.experience-date {
+  color: var(--portfolio-warm);
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.experience-body h3 {
+  font-size: 1.02rem;
+  margin: 0 0 0.2rem;
+}
+
+.experience-body p {
+  color: #43515b;
+  margin: 0.3rem 0 0;
+}
+
+.experience-place {
+  color: var(--portfolio-muted) !important;
+  font-size: 0.92rem;
+  font-weight: 650;
+}
+
+.skill-grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-top: 1rem;
+}
+
+.skill-group {
+  background: var(--portfolio-surface);
+  border: 1px solid var(--portfolio-border);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(23, 33, 43, 0.04);
+  padding: 0.95rem 1rem;
+}
+
+.skill-group h3 {
+  font-size: 0.98rem;
+  margin: 0 0 0.35rem;
+}
+
+.skill-group p {
+  color: #43515b;
+  margin: 0;
+}
+
+.experiences-page .page__content h2 + ul:not(.publication-list) {
   border-left: 2px solid var(--portfolio-border);
   margin-left: 0.2rem;
   padding-left: 1.15rem;
 }
 
-.cv-page .page__content h2 + ul:not(.publication-list) li {
+.experiences-page .page__content h2 + ul:not(.publication-list) li {
   margin-bottom: 0.65rem;
   position: relative;
 }
 
-.cv-page .page__content h2 + ul:not(.publication-list) li::before {
+.experiences-page .page__content h2 + ul:not(.publication-list) li::before {
   background: var(--portfolio-accent);
   border: 2px solid var(--portfolio-bg);
   border-radius: 50%;
@@ -480,6 +545,10 @@ a:hover {
 
   .page__title {
     font-size: 2.15rem;
+  }
+
+  .experience-item {
+    grid-template-columns: 1fr;
   }
 
   .sidebar .author__content,

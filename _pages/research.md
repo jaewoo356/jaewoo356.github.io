@@ -4,11 +4,7 @@ permalink: /research/
 classes: research-page
 ---
 
-This page lists research projects, papers, and technical work related to LLM reasoning, post-training, and efficient machine learning.
-
 ## Research Interests
-
-My primary goals are to utilize analytical results into quantitative results that contribute both the research field as well as the industry. Currently, I am mostly interested in **Reasoning** for Large Language Models. Within this huge topic, I wish to divide my research directions into two directions.
 
 1. **Efficient Reasoning**
 
@@ -35,6 +31,7 @@ My primary goals are to utilize analytical results into quantitative results tha
     <span class="publication-number">[P2]</span>
     <span class="publication-entry">
       <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of Verifiable-Reward Reinforcement Learning.</span>
+      <span class="publication-meta">Working Paper.</span>
     </span>
   </li>
 </ul>

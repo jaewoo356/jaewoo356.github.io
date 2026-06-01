@@ -39,7 +39,7 @@ author:
       url: "https://github.com/jaewoo356"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin-id/"
+      url: "https://www.linkedin.com/in/jae-woo-shin-4192591b8/"
 
 footer:
   links:
@@ -48,7 +48,7 @@ footer:
       url: "https://github.com/jaewoo356"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin-id/"
+      url: "https://www.linkedin.com/in/jae-woo-shin-4192591b8/"
 
 defaults:
   - scope:

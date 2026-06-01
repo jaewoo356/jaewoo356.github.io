@@ -10,7 +10,7 @@ classes: wide home-page
 
 ## Biography
 
-Hello! I am a Master's student in Statistics and Data Science at Yonsei University, advised by Prof. Jy-yong Sohn. Prior to that, I got my Bachelor's Degree in the same department at Yonsei University, and even before that I lived my whole life in Indonesia. I can speak native Korean and English, and a slight bit of Indonesian and Chinese. Check out my CV for details!
+Hello! I am a Master's student in [Statistics and Data Science](https://stat.yonsei.ac.kr/stat/index.do) at Yonsei University, advised by [Prof. Jy-yong Sohn](https://itml.yonsei.ac.kr/). Prior to that, I got my Bachelor's Degree in the same department at Yonsei University, and even before that I lived my whole life in Indonesia. I can speak native Korean and English, and a slight bit of Indonesian and Chinese. Check out my Experiences page for details!
 
 ## News
 
@@ -32,6 +32,7 @@ Hello! I am a Master's student in Statistics and Data Science at Yonsei Universi
     <span class="publication-number">[P2]</span>
     <span class="publication-entry">
       <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of Verifiable-Reward Reinforcement Learning.</span>
+      <span class="publication-meta">Working Paper.</span>
     </span>
   </li>
 </ul>

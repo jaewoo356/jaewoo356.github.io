@@ -1,22 +1,10 @@
 ---
-title: "Study Notes"
+title: "Notes"
 permalink: /study/
 classes: study-index-page
 ---
 
-This page collects study notes, paper summaries, and technical learning records.
-
-{% assign study_posts = site.categories.study %}
-{% if study_posts.size > 0 %}
-{% for post in study_posts %}
-- [{{ post.title }}]({{ post.url | relative_url }})  
-  {{ post.date | date: "%Y-%m-%d" }} · {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
-{% endfor %}
-{% else %}
-No study notes yet.
-{% endif %}
-
-These exported notes are grouped by the folder names under `study_files/`.
+This page contains study notes (mostly in Korean) of past topics that I have studied.
 
 ### PML Advanced 스터디
 
