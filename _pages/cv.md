@@ -23,7 +23,7 @@ classes: experiences-page
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date"></div>
+    <div class="experience-date">2019 June</div>
     <div class="experience-body">
       <h3>Diploma Programme</h3>
       <p class="experience-place">International Baccalaureate</p>
@@ -39,7 +39,7 @@ classes: experiences-page
     <div class="experience-body">
       <h3>Graduate Researcher</h3>
       <p class="experience-place">ITML Lab, Yonsei University</p>
-      <p>Working on reasoning for large language models, verifiable-reward reinforcement learning, and efficient post-training.</p>
+      <p>Working on reasoning and safety for large language models.</p>
     </div>
   </section>
   <section class="experience-item">
@@ -47,7 +47,7 @@ classes: experiences-page
     <div class="experience-body">
       <h3>Lab Intern</h3>
       <p class="experience-place">ITML Lab, Yonsei University</p>
-      <p>Worked under the supervision of Professor Jy-yong Sohn.</p>
+      <p>Worked under the supervision of Professor Jy-yong Sohn. Researched around Dataset Distillation and Supervised Contrastive Learning.</p>
     </div>
   </section>
 </div>
@@ -77,7 +77,7 @@ classes: experiences-page
 <div class="skill-grid">
   <section class="skill-group">
     <h3>Programming</h3>
-    <p>Python, PyTorch, Git</p>
+    <p>Python, PyTorch, R</p>
   </section>
   <section class="skill-group">
     <h3>Language</h3>
