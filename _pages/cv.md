@@ -59,14 +59,14 @@ classes: experiences-page
     <div class="experience-date">2026&nbsp;Mar.&nbsp;-&nbsp;2026&nbsp;June</div>
     <div class="experience-body">
       <h3>Teaching Assistant</h3>
-      <p class="experience-place">Introduction to Optimization for Data Science, Yonsei University</p>
+      <p class="experience-place">STA4123 Introduction to Optimization for Data Science, Yonsei University</p>
     </div>
   </section>
   <section class="experience-item">
     <div class="experience-date">2025&nbsp;Sept.&nbsp;-&nbsp;2025&nbsp;Dec.</div>
     <div class="experience-body">
       <h3>Teaching Assistant</h3>
-      <p class="experience-place">Information Theory for Data Science, Yonsei University</p>
+      <p class="experience-place">STA4122 Information Theory for Data Science, Yonsei University</p>
     </div>
   </section>
   <section class="experience-item">
