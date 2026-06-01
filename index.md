@@ -1,5 +1,5 @@
 ---
-title: "Jaewoo Shin"
+title: "Jaewoo Shin (신재우)"
 permalink: /
 layout: single
 author_profile: true

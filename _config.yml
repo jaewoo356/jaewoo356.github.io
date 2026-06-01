@@ -1,5 +1,5 @@
-title: "Jaewoo Shin"
-name: "Jaewoo Shin"
+title: "Jaewoo Shin (신재우)"
+name: "Jaewoo Shin (신재우)"
 description: "Personal portfolio, research notes, and study records in language models and efficient machine learning."
 url: "https://jaewoo356.github.io"
 baseurl: ""
@@ -27,7 +27,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name: "Jaewoo Shin"
+  name: "Jaewoo Shin (신재우)"
   avatar: "/assets/images/profile.jpg"
   bio: "Graduate student interested in Reasoning for LLMs."
   links:

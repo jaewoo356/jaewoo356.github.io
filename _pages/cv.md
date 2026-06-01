@@ -52,6 +52,27 @@ classes: experiences-page
   </section>
 </div>
 
+## Academic Experiences
+
+<div class="experience-list">
+  <section class="experience-item">
+    <div class="experience-date">2025&nbsp;Jan&nbsp;-&nbsp;2025&nbsp;Jun</div>
+    <div class="experience-body">
+      <h3>President</h3>
+      <p class="experience-place"><a href="https://www.youtube.com/@escyonsei5733">Expanded Statistics Club</a>, Yonsei University</p>
+      <p>Participated in a project as a team leader under the supervision of Professor Jaewoo Park.</p>
+    </div>
+  </section>
+  <section class="experience-item">
+    <div class="experience-date">2024&nbsp;Jan&nbsp;-&nbsp;2024&nbsp;Jun</div>
+    <div class="experience-body">
+      <h3>Academic Leader</h3>
+      <p class="experience-place"><a href="https://www.instagram.com/dsl_yonsei/">Data Science Club</a>, Yonsei University</p>
+      <p>Participated in multiple projects under the supervision of Professor Taeyoung Park.</p>
+    </div>
+  </section>
+</div>
+
 ## Publications
 
 <ul class="publication-list">
