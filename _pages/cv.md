@@ -56,14 +56,14 @@ classes: experiences-page
 
 <div class="experience-list">
   <section class="experience-item">
-    <div class="experience-date">2026&nbsp;Mar.&nbsp;-&nbsp;2026&nbsp;June</div>
+    <div class="experience-date">2026&nbsp;Mar&nbsp;-&nbsp;2026&nbsp;June</div>
     <div class="experience-body">
       <h3>Teaching Assistant</h3>
       <p class="experience-place">STA4123 Introduction to Optimization for Data Science, Yonsei University</p>
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2025&nbsp;Sept.&nbsp;-&nbsp;2025&nbsp;Dec.</div>
+    <div class="experience-date">2025&nbsp;Sept&nbsp;-&nbsp;2025&nbsp;Dec</div>
     <div class="experience-body">
       <h3>Teaching Assistant</h3>
       <p class="experience-place">STA4122 Information Theory for Data Science, Yonsei University</p>
@@ -74,7 +74,7 @@ classes: experiences-page
     <div class="experience-body">
       <h3><a href="https://www.youtube.com/@escyonsei5733">Expanded Statistics Club</a></h3>
       <p class="experience-place">Yonsei University</p>
-      <p class="experience-role">President, 2025 Jan - 2025 Jun; Member, 2024 Sep - 2024 Dec.</p>
+      <p class="experience-role">President, 2025 Jan - 2025 Jun; Member, 2024 Sep - 2024 Dec</p>
       <p>Participated in a project as a team leader under the supervision of Professor Jaewoo Park.</p>
     </div>
   </section>
@@ -83,7 +83,7 @@ classes: experiences-page
     <div class="experience-body">
       <h3><a href="https://www.instagram.com/dsl_yonsei/">Data Science Lab</a></h3>
       <p class="experience-place">Yonsei University</p>
-      <p class="experience-role">Academic Leader, 2024 Jan - 2024 Jun; Member, 2023 Sep - 2023 Dec.</p>
+      <p class="experience-role">Academic Leader, 2024 Jan - 2024 Jun; Member, 2023 Sep - 2023 Dec</p>
       <p>Participated in multiple projects under the supervision of Professor Taeyoung Park.</p>
     </div>
   </section>
