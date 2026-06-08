@@ -63,7 +63,7 @@ classes: experiences-page
     </div>
   </section>
   <section class="experience-item">
-    <div class="experience-date">2025&nbsp;Sept&nbsp;-&nbsp;2025&nbsp;Dec</div>
+    <div class="experience-date">2025&nbsp;Sep&nbsp;-&nbsp;2025&nbsp;Dec</div>
     <div class="experience-body">
       <h3>Teaching Assistant</h3>
       <p class="experience-place">STA4122 Information Theory for Data Science, Yonsei University</p>
@@ -81,10 +81,19 @@ classes: experiences-page
   <section class="experience-item">
     <div class="experience-date">2023&nbsp;Sep&nbsp;-&nbsp;2024&nbsp;Jun</div>
     <div class="experience-body">
-      <h3><a href="https://www.instagram.com/dsl_yonsei/">Data Science Lab</a></h3>
+      <h3>Data Science Lab</h3>
       <p class="experience-place">Yonsei University</p>
       <p class="experience-role">Academic Leader, 2024 Jan - 2024 Jun; Member, 2023 Sep - 2023 Dec</p>
       <p>Participated in multiple projects under the supervision of Professor Taeyoung Park.</p>
+      <p class="experience-links">
+        <a href="https://youtube.com/@dsl-yonsei" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://www.instagram.com/dsl_yonsei/" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="https://meteor-microwave-835.notion.site/Data-Science-Lab-dcc313da82774e7cb62fe76c2ad09d86?pvs=4" target="_blank" rel="noopener noreferrer">Notion</a>
+        <a href="https://github.com/DataScience-Lab-Yonsei" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </p>
+      <ul class="experience-projects">
+        <li><strong>Audio Sentiment Classification</strong> <span class="experience-project-role">(Leading Researcher)</span>: Developing a lightweight model under 500MB for recognizing emotion from speaker voice data, with feature augmentation based on high-frequency details.</li>
+      </ul>
     </div>
   </section>
 </div>

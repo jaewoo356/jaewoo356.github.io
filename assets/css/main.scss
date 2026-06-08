@@ -488,6 +488,50 @@ a:hover {
   font-weight: 700;
 }
 
+.experience-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.55rem !important;
+}
+
+.experience-links a {
+  background: rgba(143, 107, 76, 0.09);
+  border: 1px solid rgba(143, 107, 76, 0.18);
+  border-radius: 999px;
+  color: var(--portfolio-accent-dark);
+  font-size: 0.82rem;
+  font-weight: 750;
+  line-height: 1;
+  padding: 0.38rem 0.58rem;
+  text-decoration: none;
+}
+
+.experience-links a:hover {
+  background: rgba(143, 107, 76, 0.15);
+  color: var(--portfolio-ink);
+  text-decoration: none;
+}
+
+.experience-projects {
+  color: #43515b;
+  margin: 0.6rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.experience-projects li {
+  margin-top: 0.35rem;
+}
+
+.experience-projects strong {
+  color: #2f3f49;
+}
+
+.experience-project-role {
+  color: var(--portfolio-warm);
+  font-weight: 750;
+}
+
 .skill-grid {
   display: grid;
   gap: 0.85rem;
