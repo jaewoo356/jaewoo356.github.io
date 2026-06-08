@@ -532,6 +532,14 @@ a:hover {
   font-weight: 750;
 }
 
+.experience-project-note {
+  color: var(--portfolio-muted);
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 650;
+  margin-top: 0.3rem;
+}
+
 .skill-grid {
   display: grid;
   gap: 0.85rem;

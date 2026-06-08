@@ -92,7 +92,10 @@ classes: experiences-page
         <a href="https://github.com/DataScience-Lab-Yonsei" target="_blank" rel="noopener noreferrer">GitHub</a>
       </p>
       <ul class="experience-projects">
-        <li><strong>Audio Sentiment Classification</strong> <span class="experience-project-role">(Leading Researcher)</span>: Developing a lightweight model under 500MB for recognizing emotion from speaker voice data, with feature augmentation based on high-frequency details. Materials cannot be disclosed due to security issues.</li>
+        <li>
+          <strong>Audio Sentiment Classification</strong> <span class="experience-project-role">(Leading Researcher)</span>: Developing a lightweight model under 500MB for recognizing emotion from speaker voice data, with feature augmentation based on high-frequency details.
+          <span class="experience-project-note">Materials cannot be disclosed due to security issues.</span>
+        </li>
       </ul>
     </div>
   </section>
