@@ -661,3 +661,16 @@ a:hover {
   max-width: 980px;
   padding: 0 1rem;
 }
+
+iframe.study-pdf-embed {
+  border: 0;
+  height: calc(100vh - 5rem);
+}
+
+.study-pdf-fallback {
+  color: var(--portfolio-muted);
+  margin: 1rem auto 2.5rem;
+  max-width: 980px;
+  padding: 0 1rem;
+  text-align: center;
+}

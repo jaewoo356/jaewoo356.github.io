@@ -4,7 +4,15 @@ permalink: /study/
 classes: study-index-page
 ---
 
-This page contains study notes (mostly in Korean) of past topics that I have studied.
+This page contains study notes (mostly in Korean) of past topics that I have studied, along with slides from study sessions I have led.
+
+### 베이즈 튜터링 (Bayesian Statistics)
+
+- [1주차: Introduction + Conjugate Families]({{ "/study-files/bayesian/week-1/" | relative_url }})
+- [2주차: Posterior, Markov Chain & Monte Carlo]({{ "/study-files/bayesian/week-2/" | relative_url }})
+- [3주차: MCMC & Metropolis–Hastings]({{ "/study-files/bayesian/week-3/" | relative_url }})
+- [4주차: Gibbs Sampler & Bayesian GLM]({{ "/study-files/bayesian/week-4/" | relative_url }})
+- [5주차: Bayes for Big Data & Model Comparison]({{ "/study-files/bayesian/week-5/" | relative_url }})
 
 ### PML Advanced 스터디
 
