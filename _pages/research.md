@@ -22,7 +22,7 @@ classes: research-page
   <li>
     <span class="publication-number">[P1]</span>
     <span class="publication-entry">
-      <span class="publication-authors">Junehong Baek, <strong>Jaewoo Shin</strong>, Albert No, Jy-yong Sohn.</span>
+      <span class="publication-authors">Junehong Baek, <strong>Jaewoo Shin</strong>, Jy-yong Sohn, Albert No.</span>
       <span class="publication-title">Latent Space based Token Selection for LLM Unlearning.</span>
       <span class="publication-meta">Working Paper.</span>
     </span>
@@ -31,7 +31,7 @@ classes: research-page
     <span class="publication-number">[P2]</span>
     <span class="publication-entry">
       <span class="publication-authors"><strong>Jaewoo Shin</strong>, Hyeonggene Kim, Jy-yong Sohn, Dongjun Han.</span>
-      <span class="publication-title">Where Does RLVR Update? Subspace Dynamics of RLVR.</span>
+      <span class="publication-title">Spectrally-Decomposed Projections for RLVR Training.</span>
       <span class="publication-meta">Working Paper.</span>
     </span>
   </li>
